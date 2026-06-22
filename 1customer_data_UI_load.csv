@@ -1,0 +1,21 @@
+ID,LAST_NAME,FIRST_NAME,EMAIL,COMPANY,PHONE,ADDRESS1,ADDRESS2,CITY,STATE,POSTAL_CODE,COUNTRY
+1,Sharma,Ravi,ravi.sharma@tcs.com,TCS,9812345678,45 MG Road,,Bengaluru,Karnataka,560001,India
+2,Verma,Pooja,pooja.verma@infosys.com,Infosys,9876543210,12 Residency Road,,Chennai,Tamil Nadu,600002,India
+3,Patel,Arjun,arjun.patel@wipro.com,Wipro,9923456789,23 Nehru Nagar,,Ahmedabad,Gujarat,380015,India
+4,Reddy,Srikanth,srikanth.reddy@hcl.com,HCL,9945671234,56 Jubilee Hills,,Hyderabad,Telangana,500033,India
+5,Nair,Anjali,anjali.nair@zoho.in,Zoho,8899001122,78 Anna Salai,,Chennai,Tamil Nadu,600018,India
+6,Mehta,Karan,karan.mehta@reliance.com,Reliance Industries,9988776655,34 Nariman Point,,Mumbai,Maharashtra,400021,India
+7,Das,Rekha,rekha.das@techmahindra.com,Tech Mahindra,9700223344,9 Banjara Hills,,Hyderabad,Telangana,500034,India
+8,Bose,Sayan,sayan.bose@flipkart.com,Flipkart,9877001122,11 Koramangala,,Bengaluru,Karnataka,560095,India
+9,Gupta,Neha,neha.gupta@paytm.com,Paytm,9898123456,2 Noida ,Sector 62,Noida,Uttar Pradesh,201309,India
+10,Kaur,Jasleen,jasleen.kaur@amazon.in,Amazon India,9788995544,45 Phase 8 ,Industrial Area,Mohali,Punjab,160055,India
+11,Iyer,Rahul,rahul.iyer@deloitte.com,Deloitte,9822334455,100 MG Road,,Pune,Maharashtra,411001,India
+12,Chopra,Nikita,nikita.chopra@accenture.com,Accenture,9810012233,Plot 12 Cyber City,,Gurugram,Haryana,122002,India
+13,Tripathi,Manish,manish.tripathi@zomato.com,Zomato,9988664422,25 Connaught Place,,New Delhi,,110001,India
+14,Kulkarni,Shweta,shweta.kulkarni@swiggy.com,Swiggy,9797443322,9 Baner Road,,Pune,Maharashtra,411045,India
+15,Raj,Deepak,deepak.raj@ola.in,Ola Cabs,9900887766,8 Indiranagar,,Bengaluru,Karnataka,560038,India
+16,Pillai,Divya,divya.pillai@asianpaints.com,Asian Paints,9811233344,22 Marine Drive,,Mumbai,Maharashtra,400020,India
+17,Singh,Amit,amit.singh@byjus.com,Byjus,9823445566,14 MG Road,,Bengaluru,Karnataka,560001,India
+18,Mishra,Swati,swati.mishra@hdfcbank.com,HDFC Bank,9955667788,33 Park Street,,Kolkata,West Bengal,700016,India
+19,Menon,Sandeep,sandeep.menon@capgemini.com,Capgemini,9888776655,8 Brigade Road,,Bengaluru,Karnataka,560025,India
+20,Bhattacharya,Ankita,ankita.bhattacharya@airtel.in,Airtel,9812456789,50 Salt Lake,,Kolkata,West Bengal,700091,India
