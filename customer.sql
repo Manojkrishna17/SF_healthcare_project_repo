@@ -12,3 +12,8 @@ VALUES
 (3, 'Michael', 'Dallas', 28),
 (4, 'Sophia', 'Seattle', 32),
 (5, 'William', 'Miami', 27);
+
+INSERT INTO CUSTOMER
+VALUES (6, 'Sara', 'Miami', 23);
+
+select * from customer;
